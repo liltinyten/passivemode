@@ -1,0 +1,8 @@
+name: PassiveMode
+version: 1.0
+main: pluginrequest.passivemode.Main
+commands:
+    passivemode:
+      description: Enables and disables passivemode!
+    passivemodereload:
+      description: Reloads the PassiveMode plugin!
